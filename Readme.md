@@ -15,3 +15,6 @@ The first step is recognizing and labeling items of clothing. The fashion MNIST 
 9. Bag
 10. Ankle boot
 
+The benchmark accuracy for this dataset is 96.7% and using my methods I achieved 91.36% accuracy on my test set.
+
+I used two convolutional blocks followed by two dense layers for my model. Each conv block is followed by MaxPooling and a Dropout.
