@@ -4,14 +4,14 @@ My dream is to build an app that makes outfit recommendations based on my wardro
 
 
 The first step is recognizing and labeling items of clothing. The fashion MNIST data set (F_MNIST) includes 10 types of clothing which include: 
-* T-shirt/top 
-* Trouser
-* Pullover
-* Dress
-* Coat
-* Sandal
-* Shirt
-* Sneaker
-* Bag
-* Ankle boot
+1. T-shirt/top 
+2. Trouser
+3. Pullover
+4. Dress
+5. Coat
+6. Sandal
+7. Shirt
+8. Sneaker
+9. Bag
+10. Ankle boot
 
